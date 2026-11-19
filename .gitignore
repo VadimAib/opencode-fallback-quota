@@ -1,0 +1,19 @@
+# Development-only files. Users need only index.ts, README.md and LICENSE.
+node_modules/
+dist/
+test/
+scripts/
+.github/
+package.json
+package-lock.json
+tsconfig*.json
+NOTICE.md
+*.test.ts
+*.log
+*.tgz
+.env
+opencode.json
+opencode.jsonc
+.opencode/
+.DS_Store
+Thumbs.db
